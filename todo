@@ -1,0 +1,16 @@
+CI
+    - Workflow CI
+
+CD
+    - Workflow CD
+    - Mise en place DockerHub
+    - Déploiement
+    - Mise en place HTTPS
+
+Backend
+    - Création API
+    - Route connexion via Google
+    - 
+
+Frontend
+    -
