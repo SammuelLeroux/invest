@@ -8,6 +8,6 @@ RUN npm install
 
 COPY . .
 
-RUN npm install -D typescript tailwindcss postcss autoprefixer eslint
+EXPOSE 3000
 
 CMD ["npm", "start"]
